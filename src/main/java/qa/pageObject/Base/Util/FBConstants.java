@@ -7,7 +7,7 @@ public class FBConstants {
 	
 	public static final String PAGE_URL = "http://www.facebook.com";
 	
-	//locators
+	//locatorss
 	//Gmail -- //input[@id='identifierId' and @type='email']";
 	//Gmail -- 	//*[@name='password']";
 	
