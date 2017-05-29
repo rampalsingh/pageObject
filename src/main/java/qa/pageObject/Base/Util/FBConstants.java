@@ -24,7 +24,7 @@ public class FBConstants {
 	public static final String PROFILEPAGE_LINK = "//*[@id='u_0_2']/div/div/div/div[1]/div[1]/h1/a/span";
 	
 	public static final String UNAME = "rampal.singh@sts.in";
-	public static final String PWD = "20synergy15";
+	public static final String PWD = "";
 
 	public static final String FIREFOX_DRIVER_EXE = ".//geckodriver.exe";
 
